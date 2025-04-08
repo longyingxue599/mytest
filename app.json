@@ -1,0 +1,11 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/addHotel/addHotel"
+  ],
+  "window": {
+    "navigationBarTitleText": "酒店管理系统",
+    "navigationBarBackgroundColor": "#007aff",
+    "navigationBarTextStyle": "white"
+  }
+}

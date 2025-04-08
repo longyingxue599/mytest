@@ -1,0 +1,6 @@
+<navigation-bar title="酒店管理系统"></navigation-bar>
+<view class="container">
+  <input placeholder="用户名" data-field="username" bindinput="handleInput" />
+  <input placeholder="密码" data-field="password" bindinput="handleInput" password="true" />
+  <button bindtap="login">登录</button>
+</view>

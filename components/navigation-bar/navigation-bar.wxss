@@ -1,0 +1,9 @@
+.nav-bar {
+  height: 50px;
+  background-color: #00ff55;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+  font-size: 18px;
+}

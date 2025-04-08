@@ -1,0 +1,7 @@
+<navigation-bar title="添加酒店"></navigation-bar>
+<view class="container">
+  <input placeholder="酒店名称" data-field="hotelName" bindinput="handleInput" />
+  <input placeholder="位置" data-field="location" bindinput="handleInput" />
+  <textarea placeholder="描述" data-field="description" bindinput="handleInput"></textarea>
+  <button bindtap="addHotel">提交</button>
+</view>

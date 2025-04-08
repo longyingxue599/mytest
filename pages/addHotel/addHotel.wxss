@@ -1,0 +1,18 @@
+/* pages/addHotel/addHotel.wxss */
+.container {
+  padding: 20px;
+}
+input, textarea {
+  display: block;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  padding: 5px;
+  width: 100%;
+}
+button {
+  background-color: #007aff;
+  color: #fff;
+  padding: 10px;
+  border: none;
+  width: 100%;
+}
